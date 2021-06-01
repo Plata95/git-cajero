@@ -48,3 +48,4 @@ def run(clave):
 
 
 run(clave)
+print('plata')
